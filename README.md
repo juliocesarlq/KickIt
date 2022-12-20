@@ -1,11 +1,11 @@
 # KickIt - Location Based Hangout iOS Application 📱📍🚃
 
 ## Table of Contents
-1. [Overview](#Overview)
-1. [Product Spec](#Product-Spec)
-1. [Wireframes](#Wireframes)
-2. [Schema](#Schema)
-1. [Demo](#Video-Walkthrough)
+1. [Overview](#overview)
+1. [Product Spec](#product-spec)
+1. [Wireframes](#wireframes)
+2. [Schema](#schema)
+1. [Demo](#video-walkthrough)
 
 ## Overview
 ### Description
