@@ -1,4 +1,4 @@
-# KickIt - iPhone App 📍🌉🧭
+# KickIt - Hangout iPhone App 📍🌉🧭
 
 ## Table of Contents
 1. [Overview](#Overview)
