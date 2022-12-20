@@ -1,7 +1,4 @@
-Original App Design Project
-===
-
-# KickIt
+# KickIt - iPhone App 📍🌉🧭
 
 ## Table of Contents
 1. [Overview](#Overview)
