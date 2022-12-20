@@ -1,4 +1,4 @@
-# KickIt - Hangout iPhone App 📱📍🌉
+# KickIt - Location Based Hangout iOS App 📱📍🚃
 
 ## Table of Contents
 1. [Overview](#Overview)
